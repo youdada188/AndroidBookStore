@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1, "storeId": 1, "categoryId": 1,
+    "title": "落在我身上的雨", "author": "陆庆屹", "publisher": "新星出版社",
+    "priceFen": 5900, "stock": 12, "cover": "book_001", "recommended": true, "sales": 326,
+    "description": "《四个春天》导演陆庆屹的全新文学作品，一本温柔辽阔的浮生手记，记录跨越时光的亲情、故人与日常。"
+  },
+  {
+    "id": 2, "storeId": 3, "categoryId": 1,
+    "title": "无论如何，潜水", "author": "河美娜", "publisher": "广西师大出版社",
+    "priceFen": 4980, "stock": 25, "cover": "book_002", "recommended": false, "sales": 184,
+    "description": "韩国女性主义作家、地球科学学者河美娜的治愈系随笔，讲述自己通过自由潜水走出抑郁、直面内心焦虑的生命体验。"
+  },
+  {
+    "id": 3, "storeId": 2, "categoryId": 2,
+    "title": "爱的辛劳：一名心理咨询师见证的欲望、创伤与人间", "author": "[美] 斯蒂芬·格罗斯", "publisher": "上海三联书店",
+    "priceFen": 4900, "stock": 37, "cover": "book_003", "recommended": false, "sales": 97,
+    "description": "资深心理咨询师浓缩四十年治疗经验，以真实案例拆解爱与亲密关系中的欲望、创伤与自我欺骗。"
+  },
+  {
+    "id": 4, "storeId": 4, "categoryId": 3,
+    "title": "啸风山庄：插图袖珍本", "author": "[英] 艾米莉·勃朗特", "publisher": "九州出版社",
+    "priceFen": 6500, "stock": 37, "cover": "book_004", "recommended": true, "sales": 412,
+    "description": "《呼啸山庄》全新插图袖珍译本，配插图、注释与万字导读，讲述希斯克利夫与凯瑟琳之间炽烈而悲剧的爱情。"
+  },
+  {
+    "id": 5, "storeId": 5, "categoryId": 3,
+    "title": "恐龙的移动轨迹", "author": "[韩] 金和珍", "publisher": "广西师范大学出版社",
+    "priceFen": 4800, "stock": 46, "cover": "book_005", "recommended": false, "sales": 63,
+    "description": "韩国作家金和珍的短篇小说集，突破性别框架，书写当代人不被定义的亲密关系与幽微情感。"
+  },
+  {
+    "id": 6, "storeId": 1, "categoryId": 3,
+    "title": "零诺", "author": "行烟烟", "publisher": "中信出版社",
+    "priceFen": 16800, "stock": 60, "cover": "book_006", "recommended": true, "sales": 528,
+    "description": "以时尚零售业为背景，讲述三位不同世代女性在职场与结构性困境中突围、争夺自由的当代女性长篇小说。"
+  },
+  {
+    "id": 7, "storeId": 5, "categoryId": 3,
+    "title": "伊加利亚的女儿们", "author": "[挪] 格德·布兰腾伯格", "publisher": "太白文艺出版社",
+    "priceFen": 6800, "stock": 11, "cover": "book_007", "recommended": true, "sales": 71,
+    "description": "一部性别倒置的乌托邦小说：在女人掌权的母权社会伊加利亚，被规训的「娚人」发起「娚权运动」挑战既定秩序。"
+  },
+  {
+    "id": 8, "storeId": 5, "categoryId": 3,
+    "title": "恐惧", "author": "[奥地利] 斯蒂芬·茨威格", "publisher": "江苏凤凰文艺出版社",
+    "priceFen": 4500, "stock": 19, "cover": "book_008", "recommended": true, "sales": 233,
+    "description": "茨威格书写女性心理的杰作，以一场出轨引发的层层恐惧，刻画依附婚姻、失去自我的女性的失权困境。"
+  },
+  {
+    "id": 9, "storeId": 4, "categoryId": 4,
+    "title": "西塔：一个东北街区中的空间、国家与日常", "author": "宋念申", "publisher": "上海人民出版社",
+    "priceFen": 7980, "stock": 43, "cover": "book_009", "recommended": true, "sales": 156,
+    "description": "历史学者宋念申以东北一个街区为切口，结合多语种材料与田野调查，自下而上讲述城市、国家与区域的形成。"
+  },
+  {
+    "id": 10, "storeId": 5, "categoryId": 3,
+    "title": "继女", "author": "[英] 卡罗琳·布莱克伍德", "publisher": "中信出版社",
+    "priceFen": 4500, "stock": 44, "cover": "book_010", "recommended": false, "sales": 88,
+    "description": "英国作家卡罗琳·布莱克伍德的暗黑中篇，讲述被抛弃的继女与继母之间通往深渊、充满恶意与绝望的关系。"
+  },
+  {
+    "id": 11, "storeId": 1, "categoryId": 3,
+    "title": "隐蔽嫌疑人", "author": "陈浩基", "publisher": "上海三联书店",
+    "priceFen": 7900, "stock": 40, "cover": "book_011", "recommended": false, "sales": 267,
+    "description": "陈浩基的社会派推理：衣橱里惊现人体标本，足不出户二十年的茧居男子成为嫌疑人，好友为其追寻真凶。"
+  },
+  {
+    "id": 12, "storeId": 1, "categoryId": 3,
+    "title": "翠鸟谋杀案", "author": "[英] 安东尼·霍洛维茨", "publisher": "新星出版社",
+    "priceFen": 9800, "stock": 31, "cover": "book_012", "recommended": false, "sales": 195,
+    "description": "《喜鹊谋杀案》三部曲完结篇，英国侦探小说大师霍洛维茨以「作中作」精密结构呈现的本格推理。"
+  },
+  {
+    "id": 13, "storeId": 2, "categoryId": 1,
+    "title": "另一个国度：在20世纪废墟上的漫游", "author": "杨潇", "publisher": "民主与建设出版社",
+    "priceFen": 8800, "stock": 55, "cover": "book_013", "recommended": true, "sales": 142,
+    "description": "作家杨潇三次旅居德国的漫游纪实，走访战争遗址与纪念馆，在二十世纪的废墟上思考记忆与当下。"
+  },
+  {
+    "id": 14, "storeId": 3, "categoryId": 3,
+    "title": "傍晚的邂逅", "author": "[韩] 朴婉绪", "publisher": "上海文艺出版社",
+    "priceFen": 5800, "stock": 41, "cover": "book_014", "recommended": true, "sales": 119,
+    "description": "韩国国民作家朴婉绪的短篇小说集，收录六个故事，在离别与重逢的日常中刻画人性的羞惭、自尊与妥协。"
+  },
+  {
+    "id": 15, "storeId": 2, "categoryId": 2,
+    "title": "我住长江尾", "author": "段志强", "publisher": "中华书局",
+    "priceFen": 6800, "stock": 40, "cover": "book_015", "recommended": true, "sales": 174,
+    "description": "历史学者段志强迁居崇明岛五年的种菜读书随笔，将学识融入田园实践，书写岛上乡邻交往与四季生活。"
+  },
+  {
+    "id": 16, "storeId": 4, "categoryId": 5,
+    "title": "品味与阶层：漫画解读布尔迪厄的区分理论", "author": "[法] 蒂菲娜·里维埃尔", "publisher": "广东人民出版社",
+    "priceFen": 9800, "stock": 58, "cover": "book_016", "recommended": true, "sales": 386,
+    "description": "以漫画形式通俗解读布尔迪厄的社会学经典《区分》，揭示品味背后的阶层逻辑，零门槛读懂社会学。"
+  },
+  {
+    "id": 17, "storeId": 3, "categoryId": 3,
+    "title": "无人观看", "author": "刘天昭", "publisher": "广西师范大学出版社",
+    "priceFen": 4900, "stock": 51, "cover": "book_017", "recommended": false, "sales": 76,
+    "description": "以北京为背景的长篇现实小说，通过多组城市家庭的并行叙事，呈现技术洪流与生活重压下的精神困境。"
+  },
+  {
+    "id": 18, "storeId": 3, "categoryId": 3,
+    "title": "抄写员巴托比", "author": "[美] 赫尔曼·梅尔维尔", "publisher": "陕西师范大学出版总社",
+    "priceFen": 3200, "stock": 54, "cover": "book_018", "recommended": false, "sales": 205,
+    "description": "梅尔维尔经典中篇，华尔街抄写员巴托比以一句「我宁愿不」拒绝一切，成为关于孤独、对抗与自由意志的寓言。"
+  },
+  {
+    "id": 19, "storeId": 2, "categoryId": 2,
+    "title": "它的正义", "author": "Papi妈妈", "publisher": "中国民主法制出版社",
+    "priceFen": 5800, "stock": 54, "cover": "book_019", "recommended": true, "sales": 231,
+    "description": "作者为陪伴十三年、被害离世的爱犬 Papi 踏上一千三百二十五天的维权之路，追问伴侣动物的生命价值与法律正义。"
+  },
+  {
+    "id": 20, "storeId": 4, "categoryId": 1,
+    "title": "活水", "author": "[英] 罗伯特·麦克法伦", "publisher": "文汇出版社",
+    "priceFen": 7900, "stock": 36, "cover": "book_020", "recommended": true, "sales": 148,
+    "description": "当代行走文学作家麦克法伦跨越三大洲的寻水之旅，以流动的文字书写水如何塑造人类与大地的命运。"
+  }
+]

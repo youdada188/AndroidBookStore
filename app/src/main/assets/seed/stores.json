@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "西西弗书店·万象城店",
+    "slogan": "参与构成本地精神生活",
+    "description": "1993 年创立于贵州遵义，以「图书零售 + 咖啡 + 文创」的复合业态著称，全国连锁门店超过 400 家。店内以文学、社科与畅销新书为主，配有矢量咖啡与儿童阅读区。",
+    "cover": "store_1",
+    "rating": 4.8,
+    "address": "贵阳市观山湖区万象城 L3-08",
+    "businessHours": "10:00 - 22:00",
+    "notice": "本周六 14:00 举办《落在我身上的雨》作者分享会，欢迎到店。",
+    "deliveryFeeFen": 500,
+    "minOrderFen": 3000
+  },
+  {
+    "id": 2,
+    "name": "单向空间·爱琴海店",
+    "slogan": "We Read the World",
+    "description": "由许知远等媒体人于 2005 年创办的人文书店，以思想类、社科类图书和《单读》MOOK 闻名，常年举办沙龙、展览与出版活动。",
+    "cover": "store_2",
+    "rating": 4.9,
+    "address": "北京市朝阳区爱琴海购物公园 2F",
+    "businessHours": "10:00 - 21:30",
+    "notice": "《单读》新刊已到店，会员购书享 9 折。",
+    "deliveryFeeFen": 600,
+    "minOrderFen": 4000
+  },
+  {
+    "id": 3,
+    "name": "先锋书店·五台山店",
+    "slogan": "大地上的异乡者",
+    "description": "1996 年由钱小华创办于南京，由地下车库改造而成，被 BBC 评为「全球十大最美书店」之一，以人文社科与诗歌选品见长。",
+    "cover": "store_3",
+    "rating": 4.9,
+    "address": "南京市鼓楼区广州路 173 号",
+    "businessHours": "09:30 - 22:00",
+    "notice": "店内明信片与印章免费取用，欢迎盖章留念。",
+    "deliveryFeeFen": 0,
+    "minOrderFen": 2000
+  },
+  {
+    "id": 4,
+    "name": "钟书阁·泰晤士小镇店",
+    "slogan": "书中的殿堂",
+    "description": "2013 年创立于上海，以镜面天花与拱形书廊的空间设计闻名，被称为「中国最美书店」，主营艺术、设计与生活方式类图书。",
+    "cover": "store_4",
+    "rating": 4.7,
+    "address": "上海市松江区三新北路 900 弄泰晤士小镇",
+    "businessHours": "10:00 - 20:00",
+    "notice": "周末人流较多，建议错峰到店。",
+    "deliveryFeeFen": 800,
+    "minOrderFen": 5000
+  },
+  {
+    "id": 5,
+    "name": "言几又·来福士店",
+    "slogan": "传达 · 生活 · 可能",
+    "description": "2014 年创立于成都的新形态书店，把书店、咖啡馆、文创与展览融为一体，主打年轻读者与设计生活类选品。",
+    "cover": "store_5",
+    "rating": 4.6,
+    "address": "成都市武侯区来福士广场 T2-3F",
+    "businessHours": "10:00 - 22:00",
+    "notice": "新书首发期间下单赠送限定书签。",
+    "deliveryFeeFen": 500,
+    "minOrderFen": 3000
+  }
+]

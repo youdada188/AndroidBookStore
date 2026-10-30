@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "新人券 · 满 50 减 8",
+    "thresholdFen": 5000,
+    "discountFen": 800,
+    "validDays": 30
+  },
+  {
+    "id": 2,
+    "title": "满 100 减 15",
+    "thresholdFen": 10000,
+    "discountFen": 1500,
+    "validDays": 30
+  },
+  {
+    "id": 3,
+    "title": "满 200 减 35",
+    "thresholdFen": 20000,
+    "discountFen": 3500,
+    "validDays": 30
+  },
+  {
+    "id": 4,
+    "title": "满 300 减 60",
+    "thresholdFen": 30000,
+    "discountFen": 6000,
+    "validDays": 30
+  }
+]
