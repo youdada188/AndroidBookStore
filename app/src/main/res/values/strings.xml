@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">书墨商城</string>
+    <string name="app_slogan">逛书店 · 挑好书 · 送到家</string>
+
+    <!-- 登录注册 -->
+    <string name="login_subtitle">离线也能发现下一本好书</string>
+    <string name="demo_account_hint">演示账号：demo　密码：123456</string>
+    <string name="guest_browse">先逛逛商城</string>
+    <string name="register_title">创建账号</string>
+    <string name="register_subtitle">注册后即可收藏和购买图书</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="no_account_register">还没有账号？立即注册</string>
+    <string name="has_account_login">已有账号？返回登录</string>
+    <string name="error_username_required">请输入用户名</string>
+    <string name="error_password_required">请输入密码</string>
+    <string name="error_password_length">密码至少需要 6 位</string>
+    <string name="error_password_mismatch">两次输入的密码不一致</string>
+    <string name="error_username_exists">用户名已存在</string>
+    <string name="error_login_failed">用户名或密码错误</string>
+    <string name="register_success">注册成功，请登录</string>
+
+    <!-- 启动页 -->
+    <string name="splash_countdown">%1$d 秒后进入</string>
+    <string name="splash_skip">跳过</string>
+
+    <!-- 底部导航 -->
+    <string name="nav_home">书店</string>
+    <string name="nav_category">分类</string>
+    <string name="nav_cart">购物车</string>
+    <string name="nav_profile">我的</string>
+
+    <!-- 通用 -->
+    <string name="search_hint">搜索书名、作者或书店</string>
+    <string name="loading">正在加载…</string>
+    <string name="retry">重新加载</string>
+    <string name="error_load">加载失败，请稍后重试</string>
+    <string name="empty_default">这里还没有内容</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="back">返回</string>
+    <string name="price_symbol">¥%1$s</string>
+    <string name="unit_fen">%1$s</string>
+    <string name="stock_format">库存 %1$d</string>
+    <string name="sales_format">已售 %1$d</string>
+
+    <!-- 书店 -->
+    <string name="store_rating">%1$s 分</string>
+    <string name="store_min_order">起送 ¥%1$s</string>
+    <string name="store_delivery_fee">配送 ¥%1$s</string>
+    <string name="store_book_count">%1$d 本在售</string>
+    <string name="store_notice_title">店铺公告</string>
+    <string name="store_hours">营业时间 %1$s</string>
+    <string name="store_all_books">全部图书</string>
+
+    <!-- 图书详情 -->
+    <string name="book_detail_title">图书详情</string>
+    <string name="book_publisher">出版社：%1$s</string>
+    <string name="book_description_title">内容简介</string>
+    <string name="book_review_title">读者评价</string>
+    <string name="book_review_empty">还没有读者评价，买过之后来写第一条吧</string>
+    <string name="book_review_count">%1$d 条评价</string>
+    <string name="add_to_cart">加入购物车</string>
+    <string name="favorite">收藏</string>
+    <string name="favorited">已收藏</string>
+    <string name="quantity">数量</string>
+    <string name="sold_out">已售罄</string>
+    <string name="added_to_cart">已加入购物车</string>
+    <string name="need_login">请先登录</string>
+
+    <!-- 购物车 -->
+    <string name="cart_title">购物车</string>
+    <string name="cart_empty">购物车还是空的，去书店挑一本喜欢的书吧</string>
+    <string name="cart_select_all">全选</string>
+    <string name="cart_total">合计</string>
+    <string name="cart_checkout">去结算</string>
+    <string name="cart_select_hint">请先勾选要结算的图书</string>
+    <string name="cart_delete_confirm">确定从购物车删除这本书吗？</string>
+
+    <!-- 结算 -->
+    <string name="checkout_title">确认订单</string>
+    <string name="checkout_address">收货地址</string>
+    <string name="checkout_no_address">还没有收货地址，点击添加</string>
+    <string name="checkout_goods_total">商品合计</string>
+    <string name="checkout_delivery_fee">配送费</string>
+    <string name="checkout_discount">优惠券</string>
+    <string name="checkout_pay_total">实付金额</string>
+    <string name="checkout_submit">提交订单</string>
+    <string name="checkout_confirm_title">确认提交订单</string>
+    <string name="checkout_confirm_message">实付 ¥%1$s，提交后将扣减库存并生成订单。</string>
+    <string name="checkout_success">订单提交成功</string>
+    <string name="checkout_no_coupon">暂无可用优惠券</string>
+    <string name="checkout_select_coupon">选择优惠券</string>
+
+    <!-- 订单 -->
+    <string name="order_title">我的订单</string>
+    <string name="order_empty">还没有订单，去书店逛逛吧</string>
+    <string name="order_no">订单号 %1$s</string>
+    <string name="order_status_pending">待发货</string>
+    <string name="order_status_done">已完成</string>
+    <string name="order_item_count">共 %1$d 件</string>
+    <string name="order_confirm_receipt">确认收货</string>
+    <string name="order_receipt_done">已确认收货</string>
+    <string name="order_receiver">收货人</string>
+    <string name="order_detail_title">订单详情</string>
+
+    <!-- 个人中心 -->
+    <string name="profile_title">个人中心</string>
+    <string name="profile_greeting">你好，%1$s</string>
+    <string name="profile_guest">登录后可以收藏、下单并查看订单</string>
+    <string name="profile_login">登录账号</string>
+    <string name="profile_orders">我的订单</string>
+    <string name="profile_favorites">我的收藏</string>
+    <string name="profile_addresses">收货地址</string>
+    <string name="profile_reviews">我的评价</string>
+    <string name="profile_coupons">我的优惠券</string>
+    <string name="profile_logout">退出登录</string>
+    <string name="profile_clear">清空当前账号数据</string>
+    <string name="profile_logout_confirm">确定退出当前账号吗？</string>
+    <string name="profile_clear_confirm">将删除当前账号的收藏、购物车、订单与地址，图书目录不受影响。</string>
+    <string name="profile_clear_done">数据已清空</string>
+
+    <!-- 收藏 / 搜索 -->
+    <string name="favorite_title">我的收藏</string>
+    <string name="favorite_empty">还没有收藏图书</string>
+    <string name="search_title">搜索</string>
+    <string name="search_empty">没有找到相关图书，换个关键词试试</string>
+
+    <!-- 地址 -->
+    <string name="address_title">收货地址</string>
+    <string name="address_empty">还没有收货地址，点击右下角添加</string>
+    <string name="address_add">新增地址</string>
+    <string name="address_edit">编辑地址</string>
+    <string name="address_name">收货人姓名</string>
+    <string name="address_phone">手机号</string>
+    <string name="address_region">所在地区</string>
+    <string name="address_detail">详细地址</string>
+    <string name="address_default">设为默认地址</string>
+    <string name="address_default_tag">默认</string>
+    <string name="address_saved">地址已保存</string>
+    <string name="address_incomplete">请完整填写收货信息</string>
+    <string name="address_delete_confirm">确定删除这个地址吗？</string>
+
+    <!-- 评价 -->
+    <string name="review_title">全部评价</string>
+    <string name="review_my_title">我的评价</string>
+    <string name="review_empty">还没有评价</string>
+    <string name="review_write">写评价</string>
+    <string name="review_hint">说说这本书怎么样…</string>
+    <string name="review_submit">提交评价</string>
+    <string name="review_saved">评价已提交</string>
+    <string name="review_only_buyer">购买并完成订单后才能评价</string>
+    <string name="review_already">你已经评价过这本书了</string>
+    <string name="review_rating_required">请先选择评分</string>
+    <string name="review_content_required">请填写评价内容</string>
+
+    <!-- 优惠券 -->
+    <string name="coupon_title">我的优惠券</string>
+    <string name="coupon_empty">暂无可用优惠券</string>
+    <string name="coupon_threshold">满 %1$s 可用</string>
+    <string name="coupon_discount">减 %1$s</string>
+    <string name="coupon_unused">未使用</string>
+    <string name="coupon_used">已使用</string>
+</resources>
